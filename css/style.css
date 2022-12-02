@@ -3,8 +3,9 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.4;
-    color: var(--color-white);
+    color: black;
     margin: 0;
+    background-color:azure;
 }
 .text-center {
     text-align: center;
